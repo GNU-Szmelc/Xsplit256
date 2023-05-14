@@ -1,8 +1,13 @@
 # Xsplit256
-=============================
-| [README.md] 4 [Xsplit256] |
-| [/github.com/GNU-Szmelc]  |
-=============================
+=================== \
+| [README.md] 4 [Xsplit256] | \
+| [/github.com/GNU-Szmelc]  | \
+=================== \
+> Xsplit256 Mk-I \
+> Based on gnu dialog / bash / csplit / sha256sum
+
+### 101
+> `init.sh` New Entry point!
 
 ### Run demo
 > Execute in terminal... \
